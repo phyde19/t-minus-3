@@ -4,15 +4,13 @@ A repository exploring prerequisites needed for the T3 stack. The name is an *ex
 
 ## What is this?
 
-This repository documents my step-by-step exploration of the technologies that make up the T3 stack:
+This repository explores some new technologies I'll need to learn for the T3 stack. In particular:
 
-- **TypeScript** - Typed JavaScript
+- **TypeScript** - Beyond the basics
 - **tRPC** - End-to-end typesafe APIs
-- **Next.js** - React framework (coming soon)
-- **Tailwind** - Utility-first CSS (coming soon)
-- **Drizzle** - TypeScript ORM (coming soon)
+- **Drizzle** - Preferring this over Prisma for a few reasons (coming soon)
 
-Rather than jumping directly into a complex T3 application, this repo focuses on understanding each technology individually before combining them.
+This repo focuses on demystifying each technology individually before combining them.
 
 ## Repository Structure
 
