@@ -16,7 +16,7 @@ You don’t need to memorize every tool—you just need to understand the catego
 
 ## Building and Running Typescript Files
 
-### 1) Option 1: Explicit build and run steps which `typescript` dev-dependency
+### 1) Option 1: Explicit build and run steps with `typescript` dev-dependency
 ```bash
 touch hello-typescript.ts # create a typescript file
 # edit the file
